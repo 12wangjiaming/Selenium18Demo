@@ -1,0 +1,720 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b71499dc-2e19-4858-851f-f895a47a2e6b" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.61668545">
+      <split-first>
+        <splitter split-orientation="horizontal" split-proportion="0.5">
+          <split-first>
+            <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+              <file leaf-file-name="login.java" pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/src/main/java/PO/login.java">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="209">
+                      <caret line="11" selection-start-line="11" selection-end-line="11" />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file leaf-file-name="POTest.java" pinned="false" current-in-tab="true">
+                <entry file="file://$PROJECT_DIR$/src/test/java/com/jiamingDay01/POTest.java">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="147">
+                      <caret line="8" selection-start-line="8" selection-end-line="16" selection-end-column="1" />
+                      <folding>
+                        <element signature="imports" expanded="true" />
+                      </folding>
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+            </leaf>
+          </split-first>
+          <split-second>
+            <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+              <file leaf-file-name="LoginBusiness.java" pinned="false" current-in-tab="true">
+                <entry file="file://$PROJECT_DIR$/src/main/java/POBusiness/LoginBusiness.java">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="95">
+                      <caret line="5" selection-start-line="5" selection-end-line="12" selection-end-column="1" />
+                      <folding>
+                        <element signature="imports" expanded="true" />
+                      </folding>
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+            </leaf>
+          </split-second>
+        </splitter>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="login.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/java/PO/login.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="76">
+                  <caret line="4" selection-start-line="4" selection-end-line="10" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/jiamingDay01/DriverBowser.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/jiamingDay01/TestNgDemo1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/jiamingDay01/OpenBrowserTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ClosedBrowserTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/jiamingDay01/BrowserActionsTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/jiamingDay01/ChromeAction.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SelectTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ActionTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/MoveTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/jiamingDay01/GridTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/PO/login.java" />
+        <option value="$PROJECT_DIR$/src/main/java/POBusiness/LoginBusiness.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/jiamingDay01/POTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="728" />
+    <option name="y" value="93" />
+    <option name="width" value="1182" />
+    <option name="height" value="936" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Senlenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projectName" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Senlenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projectName" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Senlenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projectName" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Senlenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projectName" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Senlenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projectName" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="POBusiness" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Senlenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projectName" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Senlenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projectName" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Senlenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projectName" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jiamingDay01" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IDEA\projectName\driver" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.BrowserActionsTest.openfirefox">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="BrowserActionsTest.openfirefox" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="projectName" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jiamingDay01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="com.jiamingDay01" />
+      <option name="MAIN_CLASS_NAME" value="com.jiamingDay01.BrowserActionsTest" />
+      <option name="METHOD_NAME" value="openfirefox" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="GridTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="projectName" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jiamingDay01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="com.jiamingDay01" />
+      <option name="MAIN_CLASS_NAME" value="com.jiamingDay01.GridTest" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="GridTest.testChrome" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="projectName" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jiamingDay01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="com.jiamingDay01" />
+      <option name="MAIN_CLASS_NAME" value="com.jiamingDay01.GridTest" />
+      <option name="METHOD_NAME" value="testChrome" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="GridTest.testGrid2" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="projectName" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jiamingDay01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="com.jiamingDay01" />
+      <option name="MAIN_CLASS_NAME" value="com.jiamingDay01.GridTest" />
+      <option name="METHOD_NAME" value="testGrid2" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="MoveTest.multiSelect" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="projectName" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MoveTest" />
+      <option name="METHOD_NAME" value="multiSelect" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.MoveTest.multiSelect" />
+      <item itemvalue="TestNG.GridTest.testChrome" />
+      <item itemvalue="TestNG.GridTest.testGrid2" />
+      <item itemvalue="TestNG.GridTest" />
+      <item itemvalue="TestNG.BrowserActionsTest.openfirefox" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.BrowserActionsTest.openfirefox" />
+        <item itemvalue="TestNG.GridTest" />
+        <item itemvalue="TestNG.GridTest.testGrid2" />
+        <item itemvalue="TestNG.GridTest.testChrome" />
+        <item itemvalue="TestNG.MoveTest.multiSelect" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b71499dc-2e19-4858-851f-f895a47a2e6b" name="Default" comment="" />
+      <created>1522374752292</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522374752292</updated>
+      <workItem from="1522374762706" duration="18616000" />
+      <workItem from="1522630463403" duration="2397000" />
+      <workItem from="1522634431468" duration="33526000" />
+      <workItem from="1523150303137" duration="1847000" />
+      <workItem from="1523152602734" duration="5582000" />
+      <workItem from="1523180829373" duration="2093000" />
+      <workItem from="1523329629780" duration="1222000" />
+      <workItem from="1523852305567" duration="18410000" />
+      <workItem from="1524105712831" duration="69000" />
+      <workItem from="1524106544878" duration="13713000" />
+      <workItem from="1524541368745" duration="11994000" />
+      <workItem from="1524712025581" duration="1396000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="GridTest_testChrome - 2018.04.19 at 14h 33m 43s.xml">
+      <configuration name="GridTest.testChrome" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GridTest_testChrome - 2018.04.19 at 14h 52m 46s.xml">
+      <configuration name="GridTest.testChrome" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GridTest_testGrid2 - 2018.04.19 at 15h 57m 22s.xml">
+      <configuration name="GridTest.testGrid2" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GridTest_testGrid2 - 2018.04.20 at 10h 08m 45s.xml">
+      <configuration name="GridTest.testGrid2" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GridTest_testGrid2 - 2018.04.20 at 10h 16m 15s.xml">
+      <configuration name="GridTest.testGrid2" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GridTest_testGrid2 - 2018.04.20 at 10h 18m 47s.xml">
+      <configuration name="GridTest.testGrid2" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GridTest_testGrid2 - 2018.04.20 at 10h 19m 41s.xml">
+      <configuration name="GridTest.testGrid2" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GridTest_testGrid2 - 2018.04.20 at 10h 21m 10s.xml">
+      <configuration name="GridTest.testGrid2" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GridTest - 2018.04.20 at 10h 22m 23s.xml">
+      <configuration name="GridTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="BrowserActionsTest_openfirefox - 2018.04.20 at 10h 28m 51s.xml">
+      <configuration name="BrowserActionsTest.openfirefox" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="110865000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="728" y="93" width="1182" height="936" extended-state="1" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.43333334" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.44931164" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.37922403" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21301247" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.46573603" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.30162704" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32997763" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jiamingDay01/BrowserActionsTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jiamingDay01/ChromeAction.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/SelectTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/ActionTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/MoveTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="55" column="42" lean-forward="true" selection-start-line="55" selection-start-column="42" selection-end-line="55" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jiamingDay01/TestNgDemo1.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jiamingDay01/BrowserActionsTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jiamingDay01/ChromeAction.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/SelectTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/ActionTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/MoveTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="27" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jiamingDay01/TestNgDemo1.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jiamingDay01/BrowserActionsTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jiamingDay01/ChromeAction.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/SelectTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/ActionTest.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jiamingDay01/TestNgDemo1.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/ClosedBrowserTest.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/2.53.1/selenium-api-2.53.1.jar!/org/openqa/selenium/WebDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-firefox-driver/2.53.1/selenium-firefox-driver-2.53.1.jar!/org/openqa/selenium/firefox/FirefoxDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jiamingDay01/OpenBrowserTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jiamingDay01/BrowserActionsTest.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jiamingDay01/TestNgDemo1.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/ClosedBrowserTest.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/2.53.1/selenium-api-2.53.1.jar!/org/openqa/selenium/WebDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-firefox-driver/2.53.1/selenium-firefox-driver-2.53.1.jar!/org/openqa/selenium/firefox/FirefoxDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jiamingDay01/OpenBrowserTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jiamingDay01/BrowserActionsTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jiamingDay01/DriverBowser.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/ClosedBrowserTest.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.9.9/testng-6.9.9.jar!/org/testng/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/2.53.1/selenium-api-2.53.1.jar!/org/openqa/selenium/WebDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="87" lean-forward="true" selection-start-line="87" selection-end-line="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jiamingDay01/OpenBrowserTest.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.9.9/testng-6.9.9.jar!/org/testng/internal/MethodInvocationHelper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.9.9/testng-6.9.9.jar!/org/testng/internal/Invoker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="422" selection-start-line="422" selection-end-line="422" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-firefox-driver/2.53.1/selenium-firefox-driver-2.53.1.jar!/org/openqa/selenium/firefox/FirefoxDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1748">
+          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jiamingDay01/TestNgDemo1.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jiamingDay01/BrowserActionsTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jiamingDay01/ChromeAction.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/ActionTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/SelectTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/MoveTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-366">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jiamingDay01/GridTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PO/login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" selection-start-line="4" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/POBusiness/LoginBusiness.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" selection-start-line="5" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jiamingDay01/POTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="8" selection-start-line="8" selection-end-line="16" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
